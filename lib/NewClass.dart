@@ -5,6 +5,6 @@ class NewClass extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Center(child: Text("do something"));
+    return Center(child: Text("do something everyday"));
   }
 }
